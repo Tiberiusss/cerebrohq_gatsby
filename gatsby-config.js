@@ -3,12 +3,12 @@ module.exports = {
     title: "cerebrohq_gatsby",
   },
   plugins: [
-    {
-      resolve: "gatsby-source-wordpress",
-      options: {
-        url: "",
-      },
-    },
+    // {
+    //   resolve: "gatsby-source-wordpress",
+    //   options: {
+    //     url: "",
+    //   },
+    // },
     "gatsby-plugin-gatsby-cloud",
     "gatsby-plugin-image",
     {
