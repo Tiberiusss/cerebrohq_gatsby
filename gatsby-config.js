@@ -10,6 +10,14 @@ module.exports = {
     //     url: "",
     //   },
     // },
+    {
+      resolve: "gatsby-theme-material-ui",
+      options: {
+        // stylesProvider: {
+        //   injectFirst: true,
+        // },
+      },
+    },
     "gatsby-plugin-gatsby-cloud",
     "gatsby-plugin-image",
     {
